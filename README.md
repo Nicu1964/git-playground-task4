@@ -14,6 +14,7 @@ Layout: `notes.js` is the entry point, `lib/store.js` loads, saves, and searches
 1. Make sure you have your own copy of this repo (created from the lesson on the platform).
 2. Clone it locally, and run `gh auth login` so Claude can open pull requests through the `gh` CLI.
 3. Open Claude Code in the folder.
+4. Ensure that you have copied all the branches. If not, additionally, copy `review-me` — when you fork on GitHub, leave **Copy the DEFAULT branch only** unchecked, otherwise review-me will not come across.
 
 ### Lesson 4 task — review a pull request
 Goal: open the `review-me` pull request, have Claude review it, and judge whether it caught the planted bug.
